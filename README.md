@@ -32,7 +32,6 @@ For anyone looking to get reliable climate data. The advantage of this applicati
 - Get weather data spanning multiple years and multiple stations with the click of a button
 
 ## Enhancements: 
-<List at least 2>
 
 - Interpolating data missing data based on data from nearby stations
 - Better error feedback to user. 
