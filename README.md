@@ -1,7 +1,7 @@
-# <Project Title>
-* **Author**: <Name>, github: [<username>](<url link to github profile>)
-* **Major**: <Major>
-* **Year**: <Year>
+# NOAA Weather Collector and Visualizer
+* **Author**: Thomas Smale, github: [thsmale](https://github.com/thsmale)
+* **Major**: Computer Science
+* **Year**: 2022
 
 # Type of project
 A data engineering project for getting weather data from NOAA servers. NOAA is a government agency with over 1.4 billion rows of data.
