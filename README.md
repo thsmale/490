@@ -2,6 +2,7 @@
 * **Author**: Thomas Smale, github: [thsmale](https://github.com/thsmale)
 * **Major**: Computer Science
 * **Year**: 2022
+* **App**: [Link](https://weathercollector.shinyapps.io/capstone/)
 
 # Type of project
 A data engineering project for getting weather data from NOAA servers. NOAA is a government agency with over 1.4 billion rows of data.
