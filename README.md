@@ -1,7 +1,4 @@
 # NOAA Weather Collector and Visualizer
-* **Author**: Thomas Smale, github: [thsmale](https://github.com/thsmale)
-* **Major**: Computer Science
-* **Year**: 2022
 * **App**: [Link](https://weathercollector.shinyapps.io/capstone/)
 
 # Type of project
@@ -36,9 +33,6 @@ For anyone looking to get reliable climate data. The advantage of this applicati
 
 - Interpolating data missing data based on data from nearby stations
 - Better error feedback to user. 
-
-# Can someone else work on this project? 
-Yes!
 
 # Public Display/dissemination
 You will need a NOAA token to run the application locally (fast and easy) which one can get [here](https://www.ncdc.noaa.gov/cdo-web/token). To deploy it one will need a Google cloud token to use the google API and a shiny account.
