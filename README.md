@@ -1,6 +1,6 @@
 # NOAA Weather Collector and Visualizer
 
-## 🔗[link Link to dashboard application](https://weathercollector.shinyapps.io/capstone/)
+## 🔗 [Link to dashboard application](https://weathercollector.shinyapps.io/capstone/)
 
 ![preview of the application](data/homescreen.png)
 
