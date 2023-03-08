@@ -1,15 +1,16 @@
 # NOAA Weather Collector and Visualizer
-* **App**: [Link](https://weathercollector.shinyapps.io/capstone/)
 
-# Type of project
+##* **App**: [Link to dashboard application](https://weathercollector.shinyapps.io/capstone/)
+
+## Type of project
 A data engineering project for getting weather data from NOAA servers. NOAA is a government agency with over 1.4 billion rows of data.
 
 
-# Purpose (including intended audience)
+## Purpose (including intended audience)
 For anyone looking to get reliable climate data. The advantage of this application is it's ability to find NOAA stations. 
 
 
-# Explanation of files
+## Explanation of files
 
 * `app.r` - lists all program dependencies and a template for hosting the project on shinyapps.io
  	- run() will run the application locally. First source('app.r') then call the run() function in the console.
@@ -22,9 +23,7 @@ For anyone looking to get reliable climate data. The advantage of this applicati
 	- noaa_dataset: Weather data fetched from NOAA padded with variable's I think the user will find helpful like the station name, dataset name, and more. 
 * `weather.r` - functions that server.r calls. Some of these functions make calls to the NOAA api and other's handle Google API requests. 
 
-# Completion status 
-
-<as applicable> Pending steps include: 
+## Completion status 
 
 - Find NOAA stations using a map with many parameters to make it easier 
 - Get weather data spanning multiple years and multiple stations with the click of a button
@@ -34,8 +33,8 @@ For anyone looking to get reliable climate data. The advantage of this applicati
 - Interpolating data missing data based on data from nearby stations
 - Better error feedback to user. 
 
-# Public Display/dissemination
+## Public Display/dissemination
 You will need a NOAA token to run the application locally (fast and easy) which one can get [here](https://www.ncdc.noaa.gov/cdo-web/token). To deploy it one will need a Google cloud token to use the google API and a shiny account.
 
-# License
-GPL V3
+## License
+Free and open source software foundation
