@@ -1,6 +1,6 @@
 # NOAA Weather Collector and Visualizer
 
-##* **App**: [Link to dashboard application](https://weathercollector.shinyapps.io/capstone/)
+## [Link to dashboard application](https://weathercollector.shinyapps.io/capstone/)
 
 ## Type of project
 A data engineering project for getting weather data from NOAA servers. NOAA is a government agency with over 1.4 billion rows of data.
